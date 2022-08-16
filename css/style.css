@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    overflow-x: hidden;
+    max-width: 100%;
+}
+/* Mobile first CSS */
+
+.hero-area{
+    height: auto;
+}
+
+.hero-img-vector{
+    width: auto;
+    height: 20vh;
+    margin: auto;
+}
+
+.hero-img-jiit{
+    width: auto;
+    height: 17vh;
+    margin: auto;
+}
+
+.footer-link{
+    color: white;
+    text-decoration: none;
+}
+
+.hero-head{
+    font-size: 1.1rem;
+}
+
+.hero-subhead-1{
+    font-size: 1rem;
+}
+
+.hero-subhead-2{
+    font-size: 0.75rem;
+}
+
+@media only screen and (min-width: 768px) {
+.hero-area{
+    min-height: 70vh;
+    margin-top: 5%;
+}
+.footer-link{
+    color: white;
+    text-decoration: none;
+}
+.hero-img-vector{
+    width: auto;
+    height: 50vh;
+    margin: auto;
+}
+.hero-img-jiit{
+    width: auto;
+    height: 35vh;
+    margin: auto;
+}
+.hero-head{
+    font-size: 2.25rem;
+}
+
+.hero-subhead-1{
+    font-size: 1.75rem;
+}
+
+.hero-subhead-2{
+    font-size: 1.5rem;
+}
+}
