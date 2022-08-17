@@ -1,75 +1,134 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
+  width: 100%;
 }
 
-body{
-    overflow-x: hidden;
-    max-width: 100%;
+body {
+  overflow-x: hidden;
+  max-width: 100%;
 }
 /* Mobile first CSS */
 
-.hero-area{
-    height: auto;
+.hero-area {
+  height: auto;
 }
 
-.hero-img-vector{
-    width: auto;
-    height: 20vh;
-    margin: auto;
+.hero-img-vector {
+  width: auto;
+  height: 20vh;
+  margin: auto;
 }
 
-.hero-img-jiit{
-    width: auto;
-    height: 17vh;
-    margin: auto;
+.hero-img-jiit {
+  width: auto;
+  height: 17vh;
+  margin: auto;
 }
 
-.footer-link{
-    color: white;
-    text-decoration: none;
+.footer-link {
+  color: white;
+  text-decoration: none;
 }
 
-.hero-head{
-    font-size: 1.1rem;
+.hero-head {
+  font-size: 1.1rem;
 }
 
-.hero-subhead-1{
-    font-size: 1rem;
+.hero-subhead-1 {
+  font-size: 1rem;
 }
 
-.hero-subhead-2{
-    font-size: 0.75rem;
+.hero-subhead-2 {
+  font-size: 0.75rem;
 }
 
 @media only screen and (min-width: 768px) {
-.hero-area{
+  .hero-area {
     min-height: 70vh;
     margin-top: 5%;
-}
-.footer-link{
+  }
+  .footer-link {
     color: white;
     text-decoration: none;
-}
-.hero-img-vector{
+  }
+  .hero-img-vector {
     width: auto;
     height: 50vh;
     margin: auto;
-}
-.hero-img-jiit{
+  }
+  .hero-img-jiit {
     width: auto;
     height: 35vh;
     margin: auto;
-}
-.hero-head{
+  }
+  .hero-head {
     font-size: 2.25rem;
-}
+  }
 
-.hero-subhead-1{
+  .hero-subhead-1 {
     font-size: 1.75rem;
+  }
+
+  .hero-subhead-2 {
+    font-size: 1.5rem;
+  }
 }
 
-.hero-subhead-2{
-    font-size: 1.5rem;
+.sidepanel {
+  height: 100%; /* Specify a height */
+  width: 0; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0;
+  left: 0;
+  background-color: #111; /* Black*/
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidepanel */
 }
+
+/* The sidepanel links */
+.sidepanel a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: flex;
+  flex-direction: column;
+  transition: 0.3s;
 }
+
+/* When you mouse over the navigation links, change their color */
+.sidepanel a:hover {
+  color: #f1f1f1;
+}
+
+/* Position and style the close button (top right corner) */
+.sidepanel .closebtn {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+/* Style the button that is used to open the sidepanel */
+.openbtn {
+  font-size: 20px;
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  padding: 10px 15px;
+  border: none;
+  flex: 0.4;
+  border-radius: 0.5rem;
+}
+
+.openbtn:hover {
+    background-color: rgba(0, 0, 0, 0.212);
+    transition: all;
+    transition-duration: 200ms;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+

@@ -8,8 +8,11 @@
     <?php include 'includes.php' ?>
 </head>
 <body>
-    <?php include 'navbar.php' ?>
-
+    <?php include 'sidebar.php' ?>
+    <div class="d-flex px-5 py-1 flex-row justify-content-evenly align-items-center">
+        <a class="navbar-brand fw-bold">RAMSA</a>
+        <button class="openbtn" onclick="openNav()">&#9776;</button>
+    </div>
     <div class="container-fluid">
         <div class="row">
             <div class="col-12 hero-area">
