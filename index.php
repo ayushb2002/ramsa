@@ -20,8 +20,8 @@
                     <div class="col-3 d-flex justify-content-center hero-img-container">
                         <img src="img/jiit_logo.png" alt="conference-vector" class="hero-img-jiit">
                     </div>
-                    <div class="col-6 text-center p-5">
-                    <span class="hero-head fw-bold">6th International Conference on Recent Advances in Mathematical Sciences and its Applications</span>
+                    <div class="col-6 text-left px-5 py-2 borderLine">
+                    <span class="hero-head fw-bold">6th International Conference on <span class="redHead">Recent Advances in Mathematical Sciences and its Applications</span> </span>
                     <br><br>
                     <span class="hero-subhead-1 fw-bold">Department of Mathematics, JIIT</span>
                     <br><br>
