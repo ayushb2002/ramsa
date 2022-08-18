@@ -16,7 +16,7 @@
     </section>
     <!-- Section for navbar -->
     <!-- Section for hero area -->
-    <section>
+    <section id="home">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12 hero-area d-flex align-self-center">
