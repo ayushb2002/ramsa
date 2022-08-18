@@ -77,9 +77,20 @@ body {
   transition: background-color 200ms linear;
 }
 
+#navbarNavDropdown{
+  background-color: white;
+}
+
+.section-head{
+  font-size: 1.5rem;
+}
+
 /* CSS for screen width greater than 768px goes here! */
 
 @media only screen and (min-width: 768px) {
+  #navbarNavDropdown{
+    background-color: transparent;
+  }
   .navbar-brand{
     text-align:left;
   }
