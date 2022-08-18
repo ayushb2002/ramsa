@@ -1,7 +1,7 @@
 <div class="container-fluid">
             <div class="row">
                 <div class="col-12 hero-area d-flex align-self-center">
-                    <div class="row">
+                    <div class="row" id="overlay">
                         <div class="col-4 d-flex justify-content-center hero-img-container">
                             <img src="img/jiit_logo.png" alt="conference-vector" class="hero-img-jiit">
                         </div>

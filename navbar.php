@@ -5,9 +5,9 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
-      <ul class="navbar-nav">
+      <ul class="navbar-nav ms-auto">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#home">Home</a>
+          <a class="nav-link" aria-current="page" href="#home">Home</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#about">About</a>
