@@ -4,6 +4,10 @@
   width: 100%;
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 body {
   overflow-x: hidden;
   max-width: 100%;
@@ -11,13 +15,12 @@ body {
 /* Mobile first CSS */
 
 .hero-area {
-  height: auto;
+  margin: 5% 0;
+  height: 90vh;
 }
 
-.hero-img-vector {
-  width: auto;
-  height: 20vh;
-  margin: auto;
+.navbar-brand{
+  text-align: center;
 }
 
 .hero-img-jiit {
@@ -32,7 +35,12 @@ body {
 }
 
 .hero-head {
+  font-size: 0.9rem;
+}
+
+.redHead {
   font-size: 1.1rem;
+  color: #A93226;
 }
 
 .hero-subhead-1 {
@@ -43,7 +51,41 @@ body {
   font-size: 0.75rem;
 }
 
+.borderLine {
+  border-left-style: solid;
+  border-width: thick;
+  border-color: #111;
+}
+
+.nav-link{
+  text-align: center;
+}
+
+.tbu{
+  animation: blinker 1.5s linear infinite;
+  font-size: 1.5rem;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+.fixed-top.scrolled {
+  background-color: #fff !important;
+  transition: background-color 200ms linear;
+}
+
+/* CSS for screen width greater than 768px goes here! */
+
 @media only screen and (min-width: 768px) {
+  .navbar-brand{
+    text-align:left;
+  }
+  .nav-link{
+    text-align: center;
+  }
   .hero-area {
     min-height: 70vh;
     margin-top: 5%;
@@ -63,7 +105,7 @@ body {
     margin: auto;
   }
   .hero-head {
-    font-size: 2.25rem;
+    font-size: 2rem;
   }
 
   .hero-subhead-1 {
@@ -73,73 +115,20 @@ body {
   .hero-subhead-2 {
     font-size: 1.5rem;
   }
-}
 
-.sidepanel {
-  height: 100%; /* Specify a height */
-  width: 0; /* 0 width - change this with JavaScript */
-  position: fixed; /* Stay in place */
-  z-index: 1; /* Stay on top */
-  top: 0;
-  left: 0;
-  background-color: #111; /* Black*/
-  overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 60px; /* Place content 60px from the top */
-  transition: 0.5s; /* 0.5 second transition effect to slide in the sidepanel */
-}
+  .redHead {
+    font-size: 2.25rem;
+    color: #A93226;
+  }
 
-/* The sidepanel links */
-.sidepanel a {
-  padding: 8px 8px 8px 32px;
-  text-decoration: none;
-  font-size: 20px;
-  color: white;
-  display: flex;
-  flex-direction: column;
-  transition: 0.3s;
-}
+  .hero-area {
+    height: auto;
+  }
 
-/* When you mouse over the navigation links, change their color */
-.sidepanel a:hover {
-  color: #A93226;
-}
-
-/* Position and style the close button (top right corner) */
-.sidepanel .closebtn {
-  position: absolute;
-  top: 0;
-  left: 0;
-  font-size: 36px;
-  text-align: right;
-  padding-right: 30px;
-}
-
-/* Style the button that is used to open the sidepanel */
-.openbtn {
-  font-size: 20px;
-  cursor: pointer;
-  background-color: white;
-  color: black;
-  padding: 10px 15px;
-  border: none;
-  flex: 0.4;
-  border-radius: 0.5rem;
-}
-
-.openbtn:hover {
-    background-color: rgba(0, 0, 0, 0.212);
-    transition: all;
-    transition-duration: 200ms;
-    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.borderLine {
-  border-left-style: solid;
-  border-width: thick;
-  border-color: #111;
+  .section-head{
+    font-size: 2rem;
+  }
 }
 
 
-.redHead {
-  color: #A93226;
-}
+

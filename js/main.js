@@ -1,7 +1,6 @@
-function openNav() {
-  document.getElementById("sidepanel").style.width = "250px";
-}
-
-function closeNav() {
-  document.getElementById("sidepanel").style.width = "0";
-}
+$(function () {
+  $(document).scroll(function () {
+    var $nav = $(".fixed-top");
+    $nav.toggleClass('scrolled', $(this).scrollTop() > $nav.height());
+  });
+});
