@@ -98,7 +98,7 @@ body {
     text-align: center;
   }
   .hero-area {
-    min-height: 70vh;
+    min-height: 75vh;
     margin-top: 5%;
   }
   .footer-link {
@@ -124,7 +124,12 @@ body {
   }
 
   .hero-subhead-2 {
+    color: #A93226;
     font-size: 1.5rem;
+  }
+
+  .hero-subhead-3{
+    font-size: 1.15rem;
   }
 
   .redHead {

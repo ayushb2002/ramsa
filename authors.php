@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col-12 d-flex justify-content-center">
             <span class="section-head text-center fw-bold">
-                Authors
+                Author Guidelines
             </span>
         </div>
         <div class="col-12 p-5">
