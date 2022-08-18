@@ -43,43 +43,49 @@
     <!-- Section for hero area -->
 
     <!-- Section for About -->
-    <section id="about">
+    <section id="about" class="pt-5">
     <?php include 'about.php' ?>
     </section>
     <!-- Section for About -->
 
     <!-- Section for Authors -->
-    <section id="authors">
+    <section id="authors" class="pt-5">
     <?php include 'authors.php' ?>
     </section>
     <!-- Section for Authors -->
 
     <!-- Section for Committee -->
-    <section id="committee">
+    <section id="committee" class="pt-5">
     <?php include 'committee.php' ?>
     </section>
     <!-- Section for Committee -->
 
     <!-- Section for Program -->
-    <section id="program">
+    <section id="program" class="pt-5">
     <?php include 'program.php' ?>
     </section>
     <!-- Section for Program -->
     
     <!-- Section for Registration -->
-    <section id="registration">
+    <section id="registration" class="pt-5">
     <?php include 'registration.php' ?>
     </section>
     <!-- Section for Registration -->
 
     <!-- Section for Speakers -->
-    <section id="speakers">
+    <section id="speakers" class="pt-5">
     <?php include 'speakers.php' ?>
     </section>
     <!-- Section for Speakers -->
 
+    <!-- Section for Message -->
+    <section id="message" class="pt-5">
+    <?php include 'message.php' ?>
+    </section>
+    <!-- Section for Message -->
+
     <!-- Section for Contact -->
-    <section id="contact">
+    <section id="contact" class="pt-5">
     <?php include 'contact.php' ?>
     </section>
     <!-- Section for Contact -->

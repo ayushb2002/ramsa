@@ -1,6 +1,6 @@
 <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-transparent">
   <div class="container-fluid">
-    <a class="navbar-brand fw-bold" href="#">RAMSA</a>
+    <a class="navbar-brand fw-bold" href="index.php">RAMSA</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
