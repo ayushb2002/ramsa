@@ -72,7 +72,7 @@ body {
 }
 
 .fixed-top.scrolled {
-  background-color: #fff !important;
+  background-color: rgb(240, 240, 240) !important;
   transition: background-color 200ms linear;
 }
 
@@ -173,6 +173,19 @@ body {
   {
     display: none;
   }
+
+  .about-box-1
+  {
+    margin: 1% 2%;
+    padding: 5%;
+    min-height: 65vh;
+  }
+  .about-box-2
+  {
+    margin: 1%;
+    padding: 5%;
+    border-top: 1px solid black;
+  }
 }
 
 .lds-grid {
@@ -241,4 +254,9 @@ body {
   50% {
     opacity: 0.5;
   }
+}
+
+.text-justify{
+  text-align: justify;
+  text-justify: inter-word;
 }
