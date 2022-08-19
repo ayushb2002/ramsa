@@ -186,6 +186,12 @@ body {
     padding: 5%;
     border-top: 1px solid black;
   }
+
+  .author-box-1 {
+    margin: 1% 2%;
+    padding: 5%;
+    min-height: auto;
+  }
 }
 
 .lds-grid {
