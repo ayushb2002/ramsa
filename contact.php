@@ -8,15 +8,18 @@
         <!-- <div class="col-12 p-5">
             <p class="tbu text-center">To be updated soon..</p>    
         </div> -->
-        <div class="d-flex flex-lg-row flex-column align-items-start justify-content-evenly py-3 mx-4">
+        <div class="d-flex flex-lg-row flex-column align-items-start justify-content-evenly py-5 mx-4">
             <div class="d-flex flex-column">
-                <h6 class="fw-bold fs-3">Jaypee Institute of Information Technology</h6>
-                <span class="fs-5">A-10, A - Block, Industrial Area,</span>
-                <span class="fs-5">Sector - 62, Noida, U.P.</span>
-
-                <div class="d-flex flex-column my-2">
+                <h6 class="fw-bold fs-4">Jaypee Institute of Information Technology</h6>
+                <div class="px-4 fw-bold">
+                <span class="fs-6">A-10, A - Block, Industrial Area, Sector - 62</span> <br>
+                <span class="fs-6">Noida, Uttar Pradesh, India - 201309</span>
+                </div>
+                <hr>
+                <div class="d-flex flex-column">
                     <h5 class="fs-4 fw-bold">How to reach</h5>
 
+                    <div class="px-4">
                     <h6 class="fw-bold">Metro:</h6>
                     <p>The nearest metro station is NOIDA ELECTRONIC CITY. <br/>The institute is situated at a walking distance from the<br/> metro station.</p>
 
@@ -25,6 +28,7 @@
 
                     <h6 class="fw-bold">Airport:</h6>
                     <p>Cabs can be hired just outside the airport terminal for JIIT Sector‐62, Noida.</p>
+                    </div>
                 </div>
             </div>
             <div class="d-flex flex-column">
