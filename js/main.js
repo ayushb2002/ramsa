@@ -41,7 +41,7 @@ $(document).ready(function () {
   readTextFile("resources/speaker.json", function (text) {
     var data = JSON.parse(text);
     for (const dt in data) {
-      $("#speakers").append(`<li>${data[dt]?.name}</li>`);
+      $("#speakerList").append(`<li>${data[dt]?.name}</li>`);
     }
   });
 });
