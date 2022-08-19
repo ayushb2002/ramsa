@@ -10,6 +10,12 @@
 </head>
 
 <body>
+
+    <section id="preLoader"> 
+    <div class="lds-grid"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+    </section>
+
+    <section id="postLoader">
     <!-- Section for navbar -->
     <section>
         <?php include 'navbar.php' ?>
@@ -74,6 +80,7 @@
         <?php include 'footer.php' ?>
     </section>
     <!-- Section for footer -->
+    </section>
 </body>
 
 </html>
