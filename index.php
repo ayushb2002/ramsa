@@ -27,6 +27,12 @@
     </section>
     <!-- Section for hero area -->
 
+    <!-- Section for news and dates -->
+    <section>
+    <?php include 'news.php' ?>
+    </section>
+    <!-- Section for news and dates -->
+
     <!-- Section for About -->
     <section id="about" class="pt-5">
     <?php include 'about.php' ?>

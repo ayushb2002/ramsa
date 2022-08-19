@@ -23,7 +23,7 @@
         </p>
         </div>
         </div>
-        <div class="col-12 px-5">
+        <div class="col-12 px-5 mt-5">
             <div class="about-box-2">
         <span class="fw-bold fs-4 d-flex justify-content-center text-capitalize">About the conference</span>
         <hr>

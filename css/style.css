@@ -180,11 +180,22 @@ body {
     padding: 5%;
     min-height: 65vh;
   }
+  .news-box-1
+  {
+    margin: 1% 2%;
+    padding: 5%;
+    min-height: auto;
+  }
   .about-box-2
   {
     margin: 1%;
-    padding: 5%;
+    padding: 3% 5%;
     border-top: 1px solid black;
+  }
+  .dates{
+    width: 100%;
+    font-size: 1.2rem;
+    margin-top: 10%;
   }
 }
 
@@ -260,3 +271,4 @@ body {
   text-align: justify;
   text-justify: inter-word;
 }
+
