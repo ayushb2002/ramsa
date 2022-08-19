@@ -5,8 +5,20 @@
                 Registration
             </span>
         </div>
-        <div class="col-12 p-5">
-            <p class="tbu text-center">To be updated soon..</p>    
+        <div class="d-flex flex-row align-items-center justify-content-center">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th rowspan="2">Participants</th>
+                        <th rowspan="2">Mode</th>
+                        <th colspan="2">Registration Charges</th>
+                    </tr>
+                    <tr>
+                        <th>Aborad</th>
+                        <th>India</th>
+                    </tr>
+                </thead>
+            </table>
         </div>
     </div>
 </div>
