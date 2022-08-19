@@ -43,7 +43,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 px-5">
+        <div class="col-lg-6 col-xs-12 mb-4 mt-2 px-5">
             <div class="accordion" id="teamMem">
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="heading3">
@@ -60,18 +60,27 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+        <div class="col-lg-6 col-xs-12 mb-4 mt-2 px-5">
+            <div class="accordion" id="deptInst">
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="heading4">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="true" aria-controls="collapse4">
                             Departmental Advisory Committee
                         </button>
                     </h2>
-                    <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#teamMem">
+                    <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#deptInst">
                         <div class="accordion-body">
                             <ul id="deptAdvCom"></ul>
                         </div>
                     </div>
                 </div>
+            </div>
+
+        </div>
+        <div class="col-12 px-5">
+            <div class="accordion" id="intl">
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="heading5">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="true" aria-controls="collapse5">
@@ -84,19 +93,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header" id="heading6">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="true" aria-controls="collapse6">
-                            List of Invited Speakers
-                        </button>
-                    </h2>
-                    <div id="collapse6" class="accordion-collapse collapse" aria-labelledby="heading6" data-bs-parent="#teamMem">
-                        <div class="accordion-body">
-                            <ul id="speakers"></ul>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
+</div>
 </div>
