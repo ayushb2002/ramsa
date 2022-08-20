@@ -5,7 +5,7 @@
                 Registration
             </span>
         </div>
-        <div class="d-flex flex-row align-items-center justify-content-center p-5">
+        <div class="d-flex flex-column align-items-center justify-content-center p-5">
             <table class="table table-bordered text-center">
                 <thead>
                     <tr>
@@ -65,6 +65,18 @@
                     </tr>
                 </tbody>
             </table>
+            <div class="d-flex flex-column my-2">
+                <h4 class="fw-bold fs-5 d-flex justify-content-start">*Important Points for Registration</h4>
+                <p class="text-justify">
+                <ol class="fs-6">
+                    <li>The registration fee for Offline Mode includes conference kit, lunch and tea during the conference</li>
+                    <li>Only accepted and presented papers, after peer review, will be published in Indexed Proceedings/Journals (Proposal to be submitted). The publication charges (if any) for the full length accepted papers will be charged separately.</li>
+                    <li>For On the Spot Registration, 20% extra charges will be paid by the participants</li>
+                    <li>For Early Bird Registration (Till November 02, 2022), 10% discount will be provided to the participants.</li>
+                    <li>It is advisable for all the participants to make their own arrangements of accommodation well in advance. However, the organizers will provide necessary and possible assistance in arranging the same. A list of hotels and guest houses will be provided on the conference website in due course.</li>
+                </ol>
+                </p>
+            </div>
         </div>
     </div>
 </div>

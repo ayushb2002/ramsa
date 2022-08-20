@@ -6,7 +6,9 @@
             </span>
         </div>
         <div class="col-12 p-5">
-            <div class="accordion" id="speakerAcc">
+            <p class="tbu text-center">To Be Updated soon...</p>
+            <!-- TODO: Remove this once speaker list updated -->
+            <!-- <div class="accordion" id="speakerAcc">
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="heading6">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="true" aria-controls="collapse6">
@@ -19,7 +21,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>

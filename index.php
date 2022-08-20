@@ -43,6 +43,11 @@
         </section>
         <!-- Section for news and dates -->
 
+        <!-- Section for Gallery -->
+        <section id="gallery">
+            <?php include 'gallery.php' ?>
+        </section>
+
         <!-- Section for About -->
         <section id="about" class="pt-5">
             <?php include 'about.php' ?>
