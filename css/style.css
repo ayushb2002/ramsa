@@ -283,3 +283,35 @@ body {
   text-justify: inter-word;
 }
 
+.prev-conf{
+  list-style-type: none;
+}
+.prev-conf li a{
+  text-decoration: none;
+  color: black;
+  font-size: 1.2rem;
+}
+
+.prev-conf li a:hover{
+  color: blue;
+}
+
+.multi-color{
+  animation: colors 1s linear infinite;
+}
+
+@keyframes colors {
+  0%, 100%{
+    color: blue;
+  }
+  25%{
+    color: red;
+  }
+  50%
+  {
+    color: yellow;
+  }
+  75%{
+    color: green;
+  }
+}

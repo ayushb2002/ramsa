@@ -35,12 +35,12 @@
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading7">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse7" aria-expanded="true" aria-controls="collapse7">
-                                Previous RAMSA Conferencces
+                                Previous RAMSA Conferences
                             </button>
                         </h2>
                         <div id="collapse7" class="accordion-collapse collapse show" aria-labelledby="heading7" data-bs-parent="#prevConf">
                             <div class="accordion-body">
-                                <ul>
+                                <ul class="prev-conf">
                                     <li><a target="_blank" referrerpolicy="no-referrer" href="https://novapublishers.com/shop/emerging-advancements-in-mathematical-sciences/">RAMSA 2021</a></li>
                                     <li><a target="_blank" referrerpolicy="no-referrer" href="https://aip.scitation.org/toc/apc/2214/1">RAMSA 2020</a></li>
                                     <li><a target="_blank" referrerpolicy="no-referrer" href="https://aip.scitation.org/toc/apc/2061/1">RAMSA 2019</a></li>
@@ -50,6 +50,9 @@
                             </div>
                         </div>
                     </div>
+                </div>
+                <div class="d-flex justify-content-center w-100 mt-5">
+                    <a href="resources/RAMSA-2022.pdf" download="RAMSA-2020-Brochure.pdf"><button class="btn btn-warning">Download Brochure for RAMSA 2022</button></a>
                 </div>
             </div>
         </div>

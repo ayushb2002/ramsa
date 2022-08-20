@@ -6,7 +6,7 @@
             </span>
         </div>
         <div class="d-flex flex-column align-items-center justify-content-center p-5">
-            <table class="table table-bordered text-center">
+            <table class="table table-bordered text-center table-striped">
                 <thead>
                     <tr>
                         <th rowspan="2">Participants</th>
@@ -76,6 +76,9 @@
                     <li>It is advisable for all the participants to make their own arrangements of accommodation well in advance. However, the organizers will provide necessary and possible assistance in arranging the same.</li>
                 </ol>
                 </p>
+                <div class="w-100 d-flex justify-content-center">
+                <a href="#" style="pointer-events: none;"><button class="btn btn-success" disabled>Click here for accessing registration link</button></a>
+                </div>
             </div>
         </div>
     </div>

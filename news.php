@@ -5,7 +5,8 @@
             <span class="fw-bold fs-4 d-flex justify-content-center text-capitalize">News and Announcements</span>
             <hr>
             <ul>
-                <li>Updates will be provided here!</li>
+                <li><span class="multi-color">The brochure for RAMSA 2022 is out now! </span><a href="resources/RAMSA-2022.pdf" download="RAMSA-2020-Brochure.pdf">Download here</a></li>
+                <li>Registration Link will be out soon! Stay tuned.</li>
             </ul>
         </div>
         </div>

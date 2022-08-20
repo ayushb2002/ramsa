@@ -37,22 +37,22 @@
         </section>
         <!-- Section for hero area -->
 
-        <!-- Section for news and dates -->
-        <section>
-            <?php include 'news.php' ?>
-        </section>
-        <!-- Section for news and dates -->
-
-        <!-- Section for Gallery -->
-        <section id="gallery">
-            <?php include 'gallery.php' ?>
-        </section>
-
         <!-- Section for About -->
         <section id="about" class="pt-5">
             <?php include 'about.php' ?>
         </section>
         <!-- Section for About -->
+
+        <!-- Section for news and dates -->
+        <section id="news" class="pt-5">
+            <?php include 'news.php' ?>
+        </section>
+        <!-- Section for news and dates -->
+
+        <!-- Section for Gallery -->
+        <section id="gallery" class="pt-5">
+            <?php include 'gallery.php' ?>
+        </section>
 
         <!-- Section for Authors -->
         <section id="authors" class="pt-5">
