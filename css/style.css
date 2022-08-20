@@ -202,6 +202,12 @@ body {
     font-size: 1.2rem;
     margin-top: 10%;
   }
+
+  .gallery-img{
+    width: 80%;
+    height: 80vh;
+  }
+
 }
 
 .author-box-1 {
