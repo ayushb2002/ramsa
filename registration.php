@@ -73,7 +73,7 @@
                     <li>Only accepted and presented papers, after peer review, will be published in Indexed Proceedings/Journals (Proposal to be submitted). The publication charges (if any) for the full length accepted papers will be charged separately.</li>
                     <li>For On the Spot Registration, 20% extra charges will be paid by the participants</li>
                     <li>For Early Bird Registration (Till November 02, 2022), 10% discount will be provided to the participants.</li>
-                    <li>It is advisable for all the participants to make their own arrangements of accommodation well in advance. However, the organizers will provide necessary and possible assistance in arranging the same. A list of hotels and guest houses will be provided on the conference website in due course.</li>
+                    <li>It is advisable for all the participants to make their own arrangements of accommodation well in advance. However, the organizers will provide necessary and possible assistance in arranging the same.</li>
                 </ol>
                 </p>
             </div>

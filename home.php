@@ -8,7 +8,8 @@
                         <div class="col-8 text-left px-5 py-2 borderLine my-auto">
                             <span class="hero-head fw-bold">6<sup>th</sup> International Conference on</span>
                             <br>
-                            <span class="redHead fw-bold"> Recent Advances in Mathematical Sciences and its Applications</span>
+                            <span class="redHead fw-bold"> Recent Advances in Mathematical Sciences and its Applications</span><br/>
+                            <span class="readHeadVb fw-bold">(RAMSA - 2022)</span>
                             <br><br>
                             <span class="hero-subhead-1 fw-bold">Department of Mathematics,</span><br/>
                             <span class="hero-subhead-1 fw-bold">Jaypee Institute of Information Technology</span>
