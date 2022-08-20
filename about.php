@@ -30,6 +30,27 @@
                 <p class="text-justify">
                     The aim of this conference is to bring together learned mathematicians, scientists, engineers, researchers from industry and research scholars working in the different areas of mathematics at a common platform. The Conference provides an excellent opportunity to researchers, practitioners and educators to present and discuss the recent innovations in mathematics for potential implementation in sciences and engineering. It focuses on strengthening the existing results along with identifying the practical challenges encountered with respect to various solutions adopted in the fields of Mathematics and its Applications. Moreover, it will provide an opportunity to enhance collaboration among researchers not only from the various parts of the country but also with those from abroad. The scientific program will consist of Keynote/plenary/invited lectures and parallel sessions for contributed presentations. The main emphasis will be on the vibrant implicational aspects of applied mathematics for cultivating contemporary and advanced findings in multidimensional sphere of engineering and sciences. The invited lectures and refereed contributed papers will be published in the proceedings after due reviewing process by the committee of experts in various disciplines. The conference proceedings of the previous series of RAMSA were published by <b> AIP (Scopus Indexed), USA and Nova Publishers, USA.</b>
                 </p>
+
+                <div class="accordion" id="prevConf">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="heading7">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse7" aria-expanded="true" aria-controls="collapse7">
+                                Previous RAMSA Conferencces
+                            </button>
+                        </h2>
+                        <div id="collapse7" class="accordion-collapse collapse show" aria-labelledby="heading7" data-bs-parent="#prevConf">
+                            <div class="accordion-body">
+                                <ul>
+                                    <li><a target="_blank" referrerpolicy="no-referrer" href="https://novapublishers.com/shop/emerging-advancements-in-mathematical-sciences/">RAMSA 2021</a></li>
+                                    <li><a target="_blank" referrerpolicy="no-referrer" href="https://aip.scitation.org/toc/apc/2214/1">RAMSA 2020</a></li>
+                                    <li><a target="_blank" referrerpolicy="no-referrer" href="https://aip.scitation.org/toc/apc/2061/1">RAMSA 2019</a></li>
+                                    <li><a target="_blank" referrerpolicy="no-referrer" href="https://aip.scitation.org/toc/apc/1897/1">RAMSA 2017</a></li>
+                                    <li><a target="_blank" referrerpolicy="no-referrer" href="https://aip.scitation.org/toc/apc/1802/1">RAMSA 2016</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
