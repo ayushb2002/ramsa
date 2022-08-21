@@ -342,3 +342,8 @@ body {
   font-size: 55px;
   color: #A93226;
 }
+
+#previousConferences{
+  margin: 2% 5%;
+  min-height: 60vh;
+}

@@ -89,8 +89,7 @@
                     </h2>
                     <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5" data-bs-parent="#teamMem">
                         <div class="accordion-body">
-                            <!-- <ul id="intlAdvCom"></ul> -->
-                            <p class="tbu text-center">To be updated soon...</p>
+                            <ul id="intlAdvCom"></ul> 
                         </div>
                     </div>
                 </div>
