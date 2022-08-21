@@ -13,6 +13,12 @@
           <a class="nav-link" href="#about">About</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" aria-current="page" href="#news">News</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" href="#gallery">Gallery</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="#authors">Authors</a>
         </li>
         <li class="nav-item">

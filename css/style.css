@@ -42,6 +42,11 @@ body {
   color: #A93226;
 }
 
+.readHeadVb {
+  font-size: 2rem;
+  color: #A93226;
+}
+
 .hero-subhead-1 {
   font-size: 1rem;
 }
@@ -180,12 +185,35 @@ body {
     padding: 5%;
     min-height: 65vh;
   }
+  .news-box-1
+  {
+    margin: 1% 2%;
+    padding: 5%;
+    min-height: auto;
+  }
   .about-box-2
   {
     margin: 1%;
-    padding: 5%;
+    padding: 3% 5%;
     border-top: 1px solid black;
   }
+  .dates{
+    width: 100%;
+    font-size: 1.2rem;
+    margin-top: 10%;
+  }
+
+  .gallery-img{
+    width: 80%;
+    height: 80vh;
+  }
+
+}
+
+.author-box-1 {
+  margin: 1% 2%;
+  padding: 5%;
+  min-height: auto;
 }
 
 .lds-grid {
@@ -259,4 +287,37 @@ body {
 .text-justify{
   text-align: justify;
   text-justify: inter-word;
+}
+
+.prev-conf{
+  list-style-type: none;
+}
+.prev-conf li a{
+  text-decoration: none;
+  color: black;
+  font-size: 1.2rem;
+}
+
+.prev-conf li a:hover{
+  color: blue;
+}
+
+.multi-color{
+  animation: colors 1s linear infinite;
+}
+
+@keyframes colors {
+  0%, 100%{
+    color: blue;
+  }
+  25%{
+    color: red;
+  }
+  50%
+  {
+    color: yellow;
+  }
+  75%{
+    color: green;
+  }
 }

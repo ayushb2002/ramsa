@@ -12,22 +12,44 @@
             <div class="d-flex flex-column">
                 <h6 class="fw-bold fs-4">Jaypee Institute of Information Technology</h6>
                 <div class="px-4 fw-bold">
-                <span class="fs-6">A-10, A - Block, Industrial Area, Sector - 62</span> <br>
-                <span class="fs-6">Noida, Uttar Pradesh, India - 201309</span>
+                    <span class="fs-6">A-10, A - Block, Industrial Area, Sector - 62</span> <br>
+                    <span class="fs-6">Noida, Uttar Pradesh, India - 201309</span>
                 </div>
                 <hr>
                 <div class="d-flex flex-column">
-                    <h5 class="fs-4 fw-bold">How to reach</h5>
-
+                    <h5 class="fs-5 fw-bold">Address your communications to</h5>
+                    <br>
                     <div class="px-4">
-                    <h6 class="fw-bold">Metro:</h6>
-                    <p>The nearest metro station is NOIDA ELECTRONIC CITY. <br/>The institute is situated at a walking distance from the<br/> metro station.</p>
+                        <!-- <p>
+                            <b>Prof. Alka Tripathi</b>, (Conference Chair) <br>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Head, Department of Mathematics <br>
+                            <b>Dr. Yogesh Gupta, Dr. Lakhveer Kaur</b> (Conveners) <br>
+                            <hr>
+                            <b>Mobile: +91 9953891505, +91 9899273989 <br>
+                            Email: <a href="mailto:ramsaconference.jiit@gmail.com">ramsaconference.jiit@gmail.com</a> </b>
 
-                    <h6 class="fw-bold">Railway:</h6>
-                    <p>Noida is well connected to the New Delhi, Old Delhi and <br/>Ghaziabad railway stations by bus. Cabs can be hired just outside <br/>the railway stations</p>
 
-                    <h6 class="fw-bold">Airport:</h6>
-                    <p>Cabs can be hired just outside the airport terminal for JIIT Sector‐62, Noida.</p>
+                        </p> -->
+                        <div>
+                            <span><strong>Prof. Alka Tripathi</strong> (Conference Chair)</span><br />
+                            <span>Head, Department of Mathematics</span>
+                        </div><br />
+                        <div class="d-flex flex-row align-items-center justify-content-between">
+                            <div>
+                                <span><strong>Dr. Yogesh Gupta</strong> (Convener)</span><br />
+                                <span>Department of Mathematics</span><br />
+
+                            </div>
+                            <div>
+                                <span><strong>Dr. Lakhveer Kaur</strong> (Convener)</span><br />
+                                <span>Department of Mathematics</span><br />
+
+                            </div>
+                        </div><br />
+                        <div>
+                            <span>Jaypee Institute of Information Technology</span><br />
+                            <span>A-10, Sector-62, Noida- 201309, U.P., India</span>
+                        </div>
                     </div>
                 </div>
             </div>
