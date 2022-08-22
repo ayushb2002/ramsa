@@ -16,7 +16,7 @@
                             <br><br>
                             <span class="hero-subhead-2 fw-bold">December 08 - 10, 2022</span>
                             <br><br>
-                            <span class="hero-subhead-3 fw-bold tbu" style="color: blue;">Online and Offline (Hybrid) mode</span>
+                            <span class="hero-subhead-3 fw-bold" style="color: blue;">Online and Offline (Hybrid) mode</span>
                         </div>
                     </div>
 
