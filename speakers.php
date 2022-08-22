@@ -16,7 +16,8 @@
                     </h2>
                     <div id="collapse6" class="accordion-collapse collapse show" aria-labelledby="heading6" data-bs-parent="#speakerAcc">
                         <div class="accordion-body">
-                            <ul id="speakerList"></ul>
+                            <!-- <ul id="speakerList"></ul> -->
+                            <p class="fw-bold tbu w-100 d-flex justify-content-center px-3">To be updated</p>
                         </div>
                     </div>
                 </div>

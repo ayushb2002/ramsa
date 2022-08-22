@@ -205,8 +205,7 @@ body {
   }
 
   .gallery-img{
-    width: 80%;
-    height: 80vh;
+    height: 50vh;
   }
 
 }
@@ -323,26 +322,26 @@ body {
   }
 }
 
-.carousel-control-prev-icon,
+/* .carousel-control-prev-icon,
 .carousel-control-next-icon {
   height: 100px;
   width: 100px;
   background-size: 100%, 100%;
   background-image: none;
-}
+} */
 
-.carousel-control-next-icon:after
+/* .carousel-control-next-icon:after
 {
   content: '>';
   font-size: 55px;
   color: #A93226;
-}
+} */
 
-.carousel-control-prev-icon:after {
+/* .carousel-control-prev-icon:after {
   content: '<';
   font-size: 55px;
   color: #A93226;
-}
+} */
 
 #previousConferences{
   margin: 2% 5%;

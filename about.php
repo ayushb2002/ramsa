@@ -98,8 +98,8 @@
                     </div>
                     <div class="col-lg-6 col-sm-12">
                         <div class="d-flex justify-content-center w-100 mt-5">
-                            <a href="resources/RAMSA-2022.pdf" download="RAMSA-2020-Brochure.pdf"><button
-                                    class="btn btn-success">Download Brochure for RAMSA 2022</button></a>
+                            <a href="resources/RAMSA-2022.pdf" download="RAMSA-2020-Brochure.pdf" style="pointer-events: none;"><button
+                                    class="btn btn-success" disabled>Download Brochure for RAMSA 2022</button></a>
                         </div>
                     </div>
                 </div>

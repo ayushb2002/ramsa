@@ -16,69 +16,69 @@
                         aria-label="Slide 3"></button>
                 </div> -->
 
-                <div class="carousel-inner">
-                    <div class="carousel-item active" data-bs-interval="2000">
-                        <img src="img/gallery/1.jpg" class="d-block gallery-img m-auto" alt="...">
+                <div class="owl-carousel owl-theme">
+                    <div class="item">
+                        <img src="img/gallery/1.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/2.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/2.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/3.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/3.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/4.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/4.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/5.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/5.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/6.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/6.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/7.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/7.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/8.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/8.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/9.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/9.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/10.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/10.jpg" class="d-block gallery-img " alt="...">
                     </div> 
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/11.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/11.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/12.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/12.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/13.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/13.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/14.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/14.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/15.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/15.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/16.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/16.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/17.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/17.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/18.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/18.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/19.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/19.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/20.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/20.jpg" class="d-block gallery-img " alt="...">
                     </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="img/gallery/21.jpg" class="d-block gallery-img m-auto" alt="...">
+                    <div class="item">
+                        <img src="img/gallery/21.jpg" class="d-block gallery-img " alt="...">
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"

@@ -44,4 +44,32 @@ $(document).ready(function () {
       $("#speakerList").append(`<li>${data[dt]?.name}</li>`);
     }
   });
+
+  $('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    responsiveClass:true,
+    autoplay:true,
+    autoplayTimeout:1000,
+    autoplayHoverPause:false,
+    responsive:{
+        0:{
+            items:1,
+            nav:true
+        },
+        600:{
+            items:3,
+            nav:false,
+            loop:true,
+            lazyLoad:true
+        },
+        1000:{
+            items:4,
+            nav:false,
+            loop:true,
+            lazyLoad:true
+        }
+    }
+})
 });
