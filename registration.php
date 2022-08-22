@@ -77,7 +77,7 @@
                 </ol>
                 </p>
                 <div class="w-100 d-flex justify-content-center">
-                <a href="#" style="pointer-events: none;"><button class="btn btn-success" disabled>Click here for accessing registration link</button></a>
+                <a href="https://forms.gle/BXWC29y5oXSJLW1v7" target="_blank"><button class="btn btn-success">Click here for accessing registration link</button></a>
                 </div>
             </div>
         </div>
