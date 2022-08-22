@@ -1,6 +1,6 @@
 <div class="container-fluid">
     <div class="row">
-        <div class="col-12 d-flex justify-content-center">
+        <div class="col-12 d-flex justify-content-center pb-5">
             <span class="section-head text-center fw-bold">
                 Committee
             </span>

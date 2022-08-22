@@ -10,16 +10,16 @@
         </div> -->
         <div class="d-flex flex-lg-row flex-column align-items-start justify-content-evenly py-5 mx-4">
             <div class="d-flex flex-column">
-                <h6 class="fw-bold fs-4">Jaypee Institute of Information Technology</h6>
-                <div class="px-4 fw-bold">
+                <h6 class="fw-bold fs-4 redHead">Jaypee Institute of Information Technology</h6>
+                <div class=" fw-bold">
                     <span class="fs-6">A-10, A - Block, Industrial Area, Sector - 62</span> <br>
                     <span class="fs-6">Noida, Uttar Pradesh, India - 201309</span>
                 </div>
                 <hr>
                 <div class="d-flex flex-column">
-                    <h5 class="fs-5 fw-bold">Address your communications to</h5>
+                    <h5 class="fs-4 fw-bold redHead">Address your communications to</h5>
                     <br>
-                    <div class="px-4">
+                    <div >
                         <!-- <p>
                             <b>Prof. Alka Tripathi</b>, (Conference Chair) <br>
                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Head, Department of Mathematics <br>
