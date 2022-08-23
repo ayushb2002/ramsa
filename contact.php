@@ -47,8 +47,8 @@
                             </div>
                         </div><br />
                         <div>
-                            <span>Jaypee Institute of Information Technology</span><br />
-                            <span>A-10, Sector-62, Noida- 201309, U.P., India</span>
+                            <span>Mobile: +91 9953891505, +91 9899273989</span> <br />
+                            <span class="fw-bold">Email: ramsaconference.jiit@gmail.com</span>
                         </div>
                     </div>
                 </div>

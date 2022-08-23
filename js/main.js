@@ -51,7 +51,7 @@ $(document).ready(function () {
     nav:true,
     responsiveClass:true,
     autoplay:true,
-    autoplayTimeout:1000,
+    autoplayTimeout:2000,
     autoplayHoverPause:false,
     responsive:{
         0:{
