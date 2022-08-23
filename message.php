@@ -6,7 +6,7 @@
             </span>
         </div>
         <div class="col-lg-4 col-sm-12 p-5 d-flex justify-content-center">
-            <img src="img/AlkaMaamPic.jpeg" alt="#" class="messageImg">
+            <img src="img/AlkaMaamPic.jpeg" alt="#" class="messageImg" loading="lazy">
         </div>
         <div class="col-lg-8 col-sm-12 p-5">
             <p class="text-justify p-5">
