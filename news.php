@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col-lg-6 col-sm-12 px-5">
         <div class="news-box-1">
-            <span class="fw-bold fs-4 d-flex justify-content-center text-capitalize">News and Announcements</span>
+            <span class="fw-bold fs-4 d-flex justify-content-center">News and Announcements</span>
             <hr>
             <ul>
                 <li><span class="multi-color">The registration link is out now! Apply </span><a href="https://forms.gle/BXWC29y5oXSJLW1v7" target="_blank">here</a></li>
