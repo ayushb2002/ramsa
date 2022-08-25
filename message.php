@@ -6,7 +6,7 @@
         <div class="col-lg-4 col-sm-12 p-5 d-flex justify-content-center">
             <img src="img/AlkaMaamPic.jpeg" alt="#" class="messageImg" loading="lazy">
         </div>
-        <div class="col-lg-8 col-sm-12 p-5 borderLine">
+        <div class="col-lg-8 col-sm-12 p-5 borderLine2">
         <div class="w-100 d-flex justify-content-center">
             <span class="section-head text-center fw-bold ">
                 Message

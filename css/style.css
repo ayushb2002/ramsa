@@ -64,6 +64,12 @@ body {
   font-size: 0.75rem;
 }
 
+.borderLine2 {
+  border-left-style: solid;
+  border-width: thick;
+  border-color: #A93226;
+}
+
 .borderLine {
   border-left-style: solid;
   border-width: thick;
@@ -259,7 +265,6 @@ body {
 }
 
 }
-
 .author-box-1 {
   margin: 1% 2%;
   padding: 5%;

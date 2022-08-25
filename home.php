@@ -5,7 +5,7 @@
                         <div class="col-4 d-flex justify-content-center hero-img-container">
                             <img src="img/jiit_logo.png" alt="conference-vector" class="hero-img-jiit">
                         </div>
-                        <div class="col-8 text-left px-5 py-2 borderLine my-auto">
+                        <div class="col-8 text-left px-5 my-2 borderLine my-auto">
                             <span class="hero-head fw-bold">6<sup>th</sup> International Conference on</span>
                             <br>
                             <span class="redHead fw-bold"> Recent Advances in Mathematical Sciences and its Applications</span><br/>
