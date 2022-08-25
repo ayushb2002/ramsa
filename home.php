@@ -12,7 +12,8 @@
                             <span class="readHeadVb fw-bold">(RAMSA - 2022)</span>
                             <br><br>
                             <span class="hero-subhead-1 fw-bold">Department of Mathematics,</span><br/>
-                            <span class="hero-subhead-1 fw-bold">Jaypee Institute of Information Technology</span>
+                            <span class="hero-subhead-1 fw-bold">Jaypee Institute of Information Technology</span><br>
+                            <span class="hero-subhead-1 fw-bold">(JIIT Noida, U.P.)</span>
                             <br><br>
                             <span class="hero-subhead-2 fw-bold">December 08 - 10, 2022</span>
                             <br><br>

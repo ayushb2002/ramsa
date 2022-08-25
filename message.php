@@ -1,14 +1,17 @@
 <div class="container-fluid">
     <div class="row">
-        <div class="col-12 d-flex justify-content-center">
-            <span class="section-head text-center fw-bold mb-3">
-                Message
-            </span>
+        <div class="col-12 d-flex justify-content-end">
+
         </div>
         <div class="col-lg-4 col-sm-12 p-5 d-flex justify-content-center">
             <img src="img/AlkaMaamPic.jpeg" alt="#" class="messageImg" loading="lazy">
         </div>
-        <div class="col-lg-8 col-sm-12 p-5">
+        <div class="col-lg-8 col-sm-12 p-5 borderLine">
+        <div class="w-100 d-flex justify-content-center">
+            <span class="section-head text-center fw-bold ">
+                Message
+            </span>
+        </div>
             <p class="text-justify p-5">
                 I feel ecstatic to cordially welcome you all in 6th International conference on Recent Advances in Mathematical Sciences and its Applications (RAMSA - 2022).
 
@@ -17,8 +20,8 @@
                 We hope that during your time at the conference, you'll be successful in learning about new research in your field while enjoying our warm hospitality. We look forward to meeting you in RAMSA-2022.
             </p>
             <div class="d-flex flex-row align-items-end justify-content-end">
-                <p class="text-right">
-                    <span> <strong> - Prof. Alka Tripathi (Conference Chair)</strong></span><br />
+                <p class="text-right px-5">
+                    <span> <strong>Prof. Alka Tripathi (Conference Chair)</strong></span><br />
                     <span>Head, Department of Mathematics, JIIT</span>
                 </p>
 

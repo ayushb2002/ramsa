@@ -7,7 +7,7 @@
         </div>
         <div class="col-sm-12 col-lg-6 px-5">
             <div class="about-box-1">
-                <h4 class="fw-bold fs-4 d-flex justify-content-center">Call for Papers</h4>
+                <h4 class="fw-bold fs-4 d-flex justify-content-center redHead2">Call for Papers</h4>
                 <hr />
                 <p class="text-justify">
                     The broad topics of interest include, but are not limited to, the following:

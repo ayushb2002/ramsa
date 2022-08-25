@@ -7,7 +7,7 @@
         </div>
         <div class="col-lg-6 col-sm-12 px-5">
             <div class="about-box-1">
-                <span class="fw-bold fs-4 d-flex justify-content-center">About JIIT</span>
+                <span class="fw-bold fs-4 d-flex justify-content-center redHead2">About JIIT</span>
                 <hr>
                 <p class="text-justify">
                     The Jaypee Institute of Information Technology (JIIT) is declared as a deemed to be University under
@@ -25,7 +25,7 @@
         </div>
         <div class="col-lg-6 col-sm-12 px-5" style="border-left: 1px solid black;">
             <div class="about-box-1">
-                <span class="fw-bold fs-4 d-flex justify-content-center text-capitalize">About the host
+                <span class="fw-bold fs-4 d-flex justify-content-center text-capitalize redHead2">About the host
                     department</span>
                 <hr>
                 <p class="text-justify">
@@ -44,7 +44,7 @@
         </div>
         <div class="col-12 px-5 mt-5">
             <div class="about-box-2">
-                <span class="fw-bold fs-4 d-flex justify-content-center text-capitalize">About the conference</span>
+                <span class="fw-bold fs-4 d-flex justify-content-center text-capitalize redHead2">About the conference</span>
                 <hr>
                 <p class="text-justify">
                     The aim of this conference is to bring together learned mathematicians, scientists, engineers,

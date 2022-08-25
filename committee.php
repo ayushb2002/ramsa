@@ -17,7 +17,7 @@
                         <div class="accordion-body">
                             <ul>
                                 <li>Shri Jaiprakash Gaur Ji, Founder Chancellor, JIIT</li>
-                                <li>Shri Manoj Gaur Ji, Executive Chairman, Jaypee Group.</li>
+                                <li>Shri Manoj Gaur Ji, Executive Chairman, Jaypee Group</li>
                             </ul>
                         </div>
                     </div>
