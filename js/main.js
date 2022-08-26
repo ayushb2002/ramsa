@@ -65,7 +65,7 @@ $(document).ready(function () {
             lazyLoad:true
         },
         1000:{
-            items:4,
+            items:3,
             nav:false,
             loop:true,
             lazyLoad:true
