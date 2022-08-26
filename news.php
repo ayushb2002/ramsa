@@ -5,6 +5,8 @@
             <span class="fw-bold fs-4 d-flex justify-content-center">News and Announcements</span>
             <hr>
             <ul>
+            <li><span class="multi-color">The abstract submission link is out now! Submit </span><a href="https://forms.gle/4XJarSyH6FTq7WHi9" target="_blank">here</a></li>
+                <li><span>Form for abstract submission is out now. Head to <a href="#abstract">Author Guidelines</a> section to download the template for submission.</span></li>
                 <li><span class="multi-color">The registration link is out now! Apply </span><a href="https://forms.gle/BXWC29y5oXSJLW1v7" target="_blank">here</a></li>
                 <li>The brochure will be out soon! Stay tuned.</li>
             </ul>
