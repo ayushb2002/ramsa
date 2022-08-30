@@ -31,7 +31,7 @@ $(document).ready(function () {
     }
   });
 
-  readTextFile("resources/international.json", function (text) {
+  readTextFile("resources/internationalNew.json", function (text) {
     var data = JSON.parse(text);
     for (const dt in data) {
       $("#intlAdvCom").append(`<li>${data[dt]?.name}</li>`);
@@ -44,4 +44,32 @@ $(document).ready(function () {
       $("#speakerList").append(`<li>${data[dt]?.name}</li>`);
     }
   });
+
+  $('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    responsiveClass:true,
+    autoplay:true,
+    autoplayTimeout:2000,
+    autoplayHoverPause:false,
+    responsive:{
+        0:{
+            items:1,
+            nav:true
+        },
+        600:{
+            items:3,
+            nav:false,
+            loop:true,
+            lazyLoad:true
+        },
+        1000:{
+            items:3,
+            nav:false,
+            loop:true,
+            lazyLoad:true
+        }
+    }
+})
 });

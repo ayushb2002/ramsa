@@ -2,11 +2,13 @@
     <div class="row">
         <div class="col-lg-6 col-sm-12 px-5">
         <div class="news-box-1">
-            <span class="fw-bold fs-4 d-flex justify-content-center text-capitalize">News and Announcements</span>
+            <span class="fw-bold fs-4 d-flex justify-content-center">News and Announcements</span>
             <hr>
             <ul>
-                <li><span class="multi-color">The brochure for RAMSA 2022 is out now! </span><a href="resources/RAMSA-2022.pdf" download="RAMSA-2020-Brochure.pdf">Download here</a></li>
-                <li>Registration Link will be out soon! Stay tuned.</li>
+            <li><span class="multi-color">The abstract submission link is out now! Submit </span><a href="https://forms.gle/4XJarSyH6FTq7WHi9" target="_blank">here</a></li>
+                <li><span>Form for abstract submission is out now. Head to <a href="#abstract">Author Guidelines</a> section to download the template for submission.</span></li>
+                <li><span class="multi-color">The registration link is out now! Apply </span><a href="https://forms.gle/BXWC29y5oXSJLW1v7" target="_blank">here</a></li>
+                <li>The brochure will be out soon! Stay tuned.</li>
             </ul>
         </div>
         </div>

@@ -7,7 +7,7 @@
         </div>
         <div class="col-sm-12 col-lg-6 px-5">
             <div class="about-box-1">
-                <h4 class="fw-bold fs-4 d-flex justify-content-center">Call for Papers</h4>
+                <h4 class="fw-bold fs-4 d-flex justify-content-center redHead2">Call for Papers</h4>
                 <hr />
                 <p class="text-justify">
                     The broad topics of interest include, but are not limited to, the following:
@@ -34,10 +34,18 @@
                 </p>
             </div>
         </div>
-        <div class="col-sm-12 col-lg-6 px-5" style="border-left: 1px solid black;">
+        <div class="col-sm-12 col-lg-6 px-5" style="border-left: 1px solid black;" id="abstract">
             <div class="author-box-1">
-                <div class="d-flex flex-column align-items-center justify-content-center">
-                    <span class="tbu text-center">Submission Links to be added soon...</span>
+            <div class="d-flex flex-column align-items-center justify-content-center">
+                    <div class="py-3">
+                        <a href="https://forms.gle/4XJarSyH6FTq7WHi9" target="_blank"><button class="btn btn-success">Submit your Abstract Here</button></a>
+                    </div>
+                    <div class="py-3">
+                        <a href="resources/abstract_template.doc" download="Abstract Template.doc"><button class="btn btn-success">Download Abstract Template Here</button></a>
+                    </div>
+                </div>    
+            <div class="d-flex flex-column align-items-center justify-content-center mt-5">
+                    <span class="tbu text-center">Full paper submission link to be added soon...</span>
                 </div>
             </div>
         </div>

@@ -31,29 +31,31 @@
             <?php include 'navbar.php' ?>
         </section>
         <!-- Section for navbar -->
+        
         <!-- Section for hero area -->
         <section id="home">
             <?php include 'home.php' ?>
         </section>
         <!-- Section for hero area -->
 
-        <!-- Section for About -->
-        <section id="about" class="pt-5">
-            <?php include 'about.php' ?>
+        <!-- Section for Gallery -->
+        <section id="gallery" class="pt-5">
+            <?php include 'gallery.php' ?>
         </section>
-        <!-- Section for About -->
-
+        <!-- Section for Gallery -->
+        
         <!-- Section for news and dates -->
         <section id="news" class="pt-5">
             <?php include 'news.php' ?>
         </section>
         <!-- Section for news and dates -->
 
-        <!-- Section for Gallery -->
-        <section id="gallery" class="pt-5">
-            <?php include 'gallery.php' ?>
+        <!-- Section for About -->
+        <section id="about" class="pt-5">
+            <?php include 'about.php' ?>
         </section>
-
+        <!-- Section for About -->
+        
         <!-- Section for Authors -->
         <section id="authors" class="pt-5">
             <?php include 'authors.php' ?>

@@ -42,6 +42,15 @@ body {
   color: #A93226;
 }
 
+.redHead2 {
+  color: #A93226;
+}
+
+.redHead3 {
+  color: #A93226;
+  font-size: 1.25rem;
+}
+
 .readHeadVb {
   font-size: 2rem;
   color: #A93226;
@@ -53,6 +62,12 @@ body {
 
 .hero-subhead-2 {
   font-size: 0.75rem;
+}
+
+.borderLine2 {
+  border-left-style: solid;
+  border-width: thick;
+  border-color: #A93226;
 }
 
 .borderLine {
@@ -77,7 +92,7 @@ body {
 }
 
 .fixed-top.scrolled {
-  background-color: rgb(240, 240, 240) !important;
+  background-color: white !important;
   transition: background-color 200ms linear;
 }
 
@@ -93,6 +108,32 @@ body {
   height: 70vh;
   width: 90vw;
 }
+
+.messageImg{
+  height: 30vh;
+}
+
+.prevConfImg
+{
+  max-height: 30vh;
+  margin: 7% 5%;
+}
+
+.prevConfImg2
+{
+  max-height: 20vh;
+  margin: 7% 5%;
+}
+
+#preLoader
+  {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+  }
 
 /* CSS for screen width greater than 768px goes here! */
 
@@ -115,8 +156,8 @@ body {
     padding: 12% 0;
     width: 100%;
     overflow: hidden;
-    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8), rgba(0, 0, 0, 0.5)), url("../img/background.jpg");  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8), rgba(0, 0, 0, 0.5)), url("../img/background.jpg"); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8), rgba(47, 47, 47, 0.5)), url("../img/background.jpg");  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8), rgba(47, 47, 47, 0.5)), url("../img/background.jpg"); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -204,12 +245,26 @@ body {
   }
 
   .gallery-img{
-    width: 80%;
-    height: 80vh;
+    height: 50vh;
   }
 
+  .messageImg{
+    height: 45vh;
+  }
+
+  .prevConfImg
+{
+  max-height: 50vh;
+  margin: 7% 5%;
 }
 
+.prevConfImg2
+{
+  max-height: 40vh;
+  margin: 7% 5%;
+}
+
+}
 .author-box-1 {
   margin: 1% 2%;
   padding: 5%;
@@ -322,26 +377,26 @@ body {
   }
 }
 
-.carousel-control-prev-icon,
+/* .carousel-control-prev-icon,
 .carousel-control-next-icon {
   height: 100px;
   width: 100px;
   background-size: 100%, 100%;
   background-image: none;
-}
+} */
 
-.carousel-control-next-icon:after
+/* .carousel-control-next-icon:after
 {
   content: '>';
   font-size: 55px;
   color: #A93226;
-}
+} */
 
-.carousel-control-prev-icon:after {
+/* .carousel-control-prev-icon:after {
   content: '<';
   font-size: 55px;
   color: #A93226;
-}
+} */
 
 #previousConferences{
   margin: 2% 5%;

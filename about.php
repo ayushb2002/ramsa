@@ -7,7 +7,7 @@
         </div>
         <div class="col-lg-6 col-sm-12 px-5">
             <div class="about-box-1">
-                <span class="fw-bold fs-4 d-flex justify-content-center">About JIIT</span>
+                <span class="fw-bold fs-4 d-flex justify-content-center redHead2">About JIIT</span>
                 <hr>
                 <p class="text-justify">
                     The Jaypee Institute of Information Technology (JIIT) is declared as a deemed to be University under
@@ -25,7 +25,7 @@
         </div>
         <div class="col-lg-6 col-sm-12 px-5" style="border-left: 1px solid black;">
             <div class="about-box-1">
-                <span class="fw-bold fs-4 d-flex justify-content-center text-capitalize">About the host
+                <span class="fw-bold fs-4 d-flex justify-content-center text-capitalize redHead2">About the host
                     department</span>
                 <hr>
                 <p class="text-justify">
@@ -44,7 +44,7 @@
         </div>
         <div class="col-12 px-5 mt-5">
             <div class="about-box-2">
-                <span class="fw-bold fs-4 d-flex justify-content-center text-capitalize">About the conference</span>
+                <span class="fw-bold fs-4 d-flex justify-content-center text-capitalize redHead2">About the conference</span>
                 <hr>
                 <p class="text-justify">
                     The aim of this conference is to bring together learned mathematicians, scientists, engineers,
@@ -98,8 +98,8 @@
                     </div>
                     <div class="col-lg-6 col-sm-12">
                         <div class="d-flex justify-content-center w-100 mt-5">
-                            <a href="resources/RAMSA-2022.pdf" download="RAMSA-2020-Brochure.pdf"><button
-                                    class="btn btn-success">Download Brochure for RAMSA 2022</button></a>
+                            <a href="resources/RAMSA-2022.pdf" download="RAMSA-2020-Brochure.pdf" style="pointer-events: none;"><button
+                                    class="btn btn-success" disabled>Download Brochure for RAMSA 2022</button></a>
                         </div>
                     </div>
                 </div>

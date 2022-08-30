@@ -1,6 +1,6 @@
 <div class="container-fluid">
     <div class="row">
-        <div class="col-12 d-flex justify-content-center">
+        <div class="col-12 d-flex justify-content-center pb-5">
             <span class="section-head text-center fw-bold">
                 Committee
             </span>
@@ -17,7 +17,7 @@
                         <div class="accordion-body">
                             <ul>
                                 <li>Shri Jaiprakash Gaur Ji, Founder Chancellor, JIIT</li>
-                                <li>Shri Manoj Gaur Ji, Executive Chairman, Jaypee Group.</li>
+                                <li>Shri Manoj Gaur Ji, Executive Chairman, Jaypee Group</li>
                             </ul>
                         </div>
                     </div>
@@ -90,6 +90,7 @@
                     <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5" data-bs-parent="#teamMem">
                         <div class="accordion-body">
                             <ul id="intlAdvCom"></ul> 
+                            <p class="fw-bold tbu w-100 d-flex justify-content-center px-3">To be updated</p>
                         </div>
                     </div>
                 </div>
