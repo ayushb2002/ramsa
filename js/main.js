@@ -43,11 +43,16 @@ $(document).ready(function () {
 
     for (const dt in data) {
       console.log(data[dt]);
-      $("#speakerList").append(`<li class="d-flex flex-direction-column align-items-center justify-content-center">
+      $("#speakerList").append(`<div class="col-lg-3 col-sm-12">
+      <div class="w-100 d-flex justify-content-center">
       <img src=${data[dt].image} />
-      <p>${data[dt].name}</p>
-      <p>${data[dt].affliation}</p>
-      </li>`);
+      </div>
+      <div class="text-center w-100 my-2">
+      <span class="fw-bold fs-5">${data[dt].name}</span>
+      <br/>
+      <span class="fs-6">${data[dt].affliation}</span>
+      </div>
+      </div>`);
     }
   });
 
