@@ -402,3 +402,9 @@ body {
   margin: 2% 5%;
   min-height: 60vh;
 }
+
+.speakerImg
+{
+  width: auto;
+  height: 200px;
+}

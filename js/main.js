@@ -45,7 +45,7 @@ $(document).ready(function () {
       console.log(data[dt]);
       $("#speakerList").append(`<div class="col-lg-3 col-sm-12">
       <div class="w-100 d-flex justify-content-center">
-      <img src=${data[dt].image} />
+      <img src=${data[dt].image} alt="#" class="speakerImg" />
       </div>
       <div class="text-center w-100 my-2">
       <span class="fw-bold fs-5">${data[dt].name}</span>

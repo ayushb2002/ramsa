@@ -3,5 +3,15 @@
     "name": "Prof. Anish Ghosh",
     "affliation": "Professor, TIFR, Mumbai (Shanti Swarup Bhatnagar Prize, 2021)",
     "image": "img/speakers/anish_ghosh.jpg"
+  },
+  {
+    "name": "Prof. Dumitru Baleanu",
+    "affliation": "Professor, Institute of Space Sciences, Magurele-Bucharest, Romania",
+    "image": "img/speakers/dumitru_baleanu.jpeg"
+  },
+  {
+    "name": "Prof. Apala Majumdar",
+    "affliation": "Professor, University of Strathclyde, Glasgow, UK (Suffrage Science Award in Mathematics, London Mathematical Society Anne Bennett Prize)",
+    "image": "img/speakers/apala_majumdar.jpeg"
   }
 ]
