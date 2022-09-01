@@ -1,23 +1,17 @@
 [
-    {
-     "name": "Prof. R. P. Agarwal, Texas A & M University, Kingsville, Texas, USA"
-    },
-    {
-     "name": "Prof. J. Matkowski, University of ZielonaGóra, Poland"
-    },
-    {
-     "name": "Prof. Jichun Li, University of Nevada, Las Vegas, USA"
-    },
-    {
-     "name": "Prof. Satya Deo, Harish-Chandra Research Institute, Allahabad, India"
-    },
-    {
-     "name": "Prof. Kalyan Chakraborty, Kerala School of Mathematics, Kerala, India"
-    },
-    {
-     "name": "Prof. Shishir Gupta, IIT (ISM) Dhanbad, India"
-    },
-    {
-     "name": "Prof. M. Mursaleen, Aligarh Muslim University, Aligarh, India"
-    }
-   ]
+  {
+    "name": "Prof. Anish Ghosh",
+    "affliation": "Professor, TIFR, Mumbai (Shanti Swarup Bhatnagar Prize, 2021)",
+    "image": "img/speakers/anish_ghosh.jpg"
+  },
+  {
+    "name": "Prof. Dumitru Baleanu",
+    "affliation": "Professor, Institute of Space Sciences, Magurele-Bucharest, Romania",
+    "image": "img/speakers/dumitru_baleanu.jpeg"
+  },
+  {
+    "name": "Prof. Apala Majumdar",
+    "affliation": "Professor, University of Strathclyde, Glasgow, UK (Suffrage Science Award in Mathematics, London Mathematical Society Anne Bennett Prize)",
+    "image": "img/speakers/apala_majumdar.jpeg"
+  }
+]

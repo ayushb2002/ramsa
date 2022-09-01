@@ -12,8 +12,8 @@
             <div class="d-flex flex-column">
                 <h6 class="fw-bold fs-4 redHead">Jaypee Institute of Information Technology</h6>
                 <div class=" fw-bold">
-                    <span class="fs-6">A-10, A - Block, Industrial Area, Sector - 62</span> <br>
-                    <span class="fs-6">Noida, Uttar Pradesh, India - 201309</span>
+                    <span class="fs-6">A-10, Sector - 62, Noida, Uttar Pradesh, India - 201309</span> <br>
+                    <!--<span class="fs-6">Noida, Uttar Pradesh, India - 201309</span> -->
                 </div>
                 <hr>
                 <div class="d-flex flex-column">

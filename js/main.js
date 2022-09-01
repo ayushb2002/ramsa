@@ -31,7 +31,7 @@ $(document).ready(function () {
     }
   });
 
-  readTextFile("resources/internationalNew.json", function (text) {
+  readTextFile("resources/international.json", function (text) {
     var data = JSON.parse(text);
     for (const dt in data) {
       $("#intlAdvCom").append(`<li>${data[dt]?.name}</li>`);
@@ -40,36 +40,47 @@ $(document).ready(function () {
 
   readTextFile("resources/speaker.json", function (text) {
     var data = JSON.parse(text);
+
     for (const dt in data) {
-      $("#speakerList").append(`<li>${data[dt]?.name}</li>`);
+      console.log(data[dt]);
+      $("#speakerList").append(`<div class="col-lg-3 col-sm-12">
+      <div class="w-100 d-flex justify-content-center">
+      <img src=${data[dt].image} alt="#" class="speakerImg" />
+      </div>
+      <div class="text-center w-100 my-2">
+      <span class="fw-bold fs-5">${data[dt].name}</span>
+      <br/>
+      <span class="fs-6">${data[dt].affliation}</span>
+      </div>
+      </div>`);
     }
   });
 
-  $('.owl-carousel').owlCarousel({
-    loop:true,
-    margin:10,
-    nav:true,
-    responsiveClass:true,
-    autoplay:true,
-    autoplayTimeout:2000,
-    autoplayHoverPause:false,
-    responsive:{
-        0:{
-            items:1,
-            nav:true
-        },
-        600:{
-            items:3,
-            nav:false,
-            loop:true,
-            lazyLoad:true
-        },
-        1000:{
-            items:3,
-            nav:false,
-            loop:true,
-            lazyLoad:true
-        }
-    }
-})
+  $(".owl-carousel").owlCarousel({
+    loop: true,
+    margin: 10,
+    nav: true,
+    responsiveClass: true,
+    autoplay: true,
+    autoplayTimeout: 2000,
+    autoplayHoverPause: false,
+    responsive: {
+      0: {
+        items: 1,
+        nav: true,
+      },
+      600: {
+        items: 3,
+        nav: false,
+        loop: true,
+        lazyLoad: true,
+      },
+      1000: {
+        items: 3,
+        nav: false,
+        loop: true,
+        lazyLoad: true,
+      },
+    },
+  });
 });
