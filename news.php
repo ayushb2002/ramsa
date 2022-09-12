@@ -19,11 +19,11 @@
             <table class="dates table table-hover table-striped">
                 <tr>
                     <td>Submission of Abstract</td>
-                    <td>September 10, 2022</td>
+                    <td><strike>September 10, 2022</strike> September 20, 2022</td>
                 </tr>
                 <tr>
                     <td>Acceptance of Abstract</td>
-                    <td>September 14, 2022</td>
+                    <td><strike>September 14, 2022</strike> September 24, 2022</td>
                 </tr>
                 <tr>
                     <td>Submission of Full Length Paper</td>

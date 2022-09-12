@@ -76,6 +76,21 @@
                     <li>It is advisable for all the participants to make their own arrangements of accommodation well in advance. However, the organizers will provide necessary and possible assistance in arranging the same.</li>
                 </ol>
                 </p>
+                <div class="d-flex flex-column my-2">
+                
+                    <h4 class="fw-bold fs-5 d-flex justify-content-start">ACCOUNT DETAILS FOR PAYMENT </h4>
+                    <p class="text-justify">
+                        Bank A/c Name: Jaypee Institute of Info. Tech. <br>Bank Name: ICICI Bank <br>A/c No: JIITRAMSA2022 <br>Branch Name: CMS Mumbai <br>IFSC: ICIC0000104
+                    </p>
+                    <h4 class="fw-bold fs-5 d-flex justify-content-start">Note</h4>
+                    <p class="text-justify">
+                    <ol class="fs-6">
+                        <li>For ICICI Bank user, add payee under “Other Banks” </li>
+                        <li>UPI payment through Wallet (Phonepe, paytm, Gpay etc) not  applicable.</li>
+                        <li>For any query mail to fees@jiit.ac.in</li>
+                    </ol>
+                    </p>
+                </div>
                 <div class="w-100 d-flex justify-content-center">
                 <a href="https://forms.gle/BXWC29y5oXSJLW1v7" target="_blank"><button class="btn btn-success">Click here for accessing registration link</button></a>
                 </div>
