@@ -10,8 +10,6 @@
                                 
         </div>
         </div>
-        <div class="col-12 p-2 d-flex justify-content-center">
-        <p class="fw-bold w-100 tbu text-center">To be updated</p>
-        </div>
+
     </div>
 </div>
