@@ -33,5 +33,20 @@
     "name": "Prof. Kusum Deep",
     "affliation": "Professor, IIT Roorkee (Visiting Professor, Liverpool Hope University, UK)",
     "image": "img/speakers/Kusum_Deep.jpeg"
+  },
+  {
+    "name": "Prof. Peeyush Chandra",
+    "affliation": "Professor (Retired), IIT Kanpur",
+    "image": "img/speakers/Peeyush_Chandra.jpeg"
+  },
+  {
+    "name": "Prof. S. R. Chaudhari",
+    "affliation": "Professor, Kavayitri Bahinabai Chaudhari North Maharashtra University, Jalgaon , India",
+    "image": "img/speakers/S_R_Chaudhari.jpeg"
+  },
+  {
+    "name": "Prof. B. V. Rathish Kumar",
+    "affliation": "Professor, IIT Kanpur",
+    "image": "img/speakers/B_V_Rathish_Kumar.jpeg"
   }
 ]

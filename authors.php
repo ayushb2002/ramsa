@@ -44,8 +44,8 @@
                         <a href="resources/abstract_template.doc" download="Abstract Template.doc"><button class="btn btn-success">Download Abstract Template Here</button></a>
                     </div>
                 </div>    
-            <div class="d-flex flex-column align-items-center justify-content-center mt-5">
-                    <span class="tbu text-center">Full paper submission link to be added soon...</span>
+            <div class="d-flex flex-column align-items-center justify-content-center">
+                    <div class= "py-3"> <a href="https://easychair.org/my/conference?conf=ramsa2022" target="_blank"><button class="btn btn-success">Full paper submission link</button></a> </div>
                 </div>
             </div>
         </div>

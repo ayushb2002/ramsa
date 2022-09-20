@@ -5,10 +5,11 @@
             <span class="fw-bold fs-4 d-flex justify-content-center">News and Announcements</span>
             <hr>
             <ul>
-            <li><span class="multi-color">The abstract submission link is out now! Submit </span><a href="https://forms.gle/4XJarSyH6FTq7WHi9" target="_blank">here</a></li>
+            <li><span>The abstract submission link is out now! Submit </span><a href="https://forms.gle/4XJarSyH6FTq7WHi9" target="_blank">here</a></li>
                 <li><span>Form for abstract submission is out now. Head to <a href="#abstract">Author Guidelines</a> section to download the template for submission.</span></li>
-                <li><span class="multi-color">The registration link is out now! Apply </span><a href="https://forms.gle/BXWC29y5oXSJLW1v7" target="_blank">here</a></li>
-                <li><a href="resources/RAMSA-2022.pdf" target="_blank">RAMSA-2022 Brochure.</a></li>                
+                <li><span>The registration link is out now! Apply </span><a href="https://forms.gle/BXWC29y5oXSJLW1v7" target="_blank">here</a></li>
+                <li><a href="resources/RAMSA-2022.pdf" target="_blank">RAMSA-2022 Brochure.</a></li>
+                <li><span class="multi-color">Full paper submission link is out now! Submit </span><a href="https://easychair.org/my/conference?conf=ramsa2022" target="_blank">here</a></li>               
             </ul>
         </div>
         </div>
@@ -19,15 +20,15 @@
             <table class="dates table table-hover table-striped">
                 <tr>
                     <td>Submission of Abstract</td>
-                    <td><strike>September 10, 2022</strike> September 20, 2022</td>
+                    <td><strike>September 20, 2022</strike> September 30, 2022</td>
                 </tr>
                 <tr>
                     <td>Acceptance of Abstract</td>
-                    <td><strike>September 14, 2022</strike> September 24, 2022</td>
+                    <td><strike>September 24, 2022</strike> October 05, 2022</td>
                 </tr>
                 <tr>
                     <td>Submission of Full Length Paper</td>
-                    <td>October 05, 2022</td>
+                    <td><strike>October 05, 2022</strike> <br>October 15, 2022</td>
                 </tr>
                 <tr>
                     <td>Notification of Acceptance of Paper</td>
