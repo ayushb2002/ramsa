@@ -49,4 +49,15 @@
     "affliation": "Professor, IIT Kanpur",
     "image": "img/speakers/B_V_Rathish_Kumar.jpeg"
   }
+  ,
+  {
+    "name": "Prof. Om Prakash",
+    "affliation": "Professor, IIT Patna",
+    "image": "img/speakers/OmPrakash.jpeg"
+  },
+  {
+    "name": "Prof. Yogesh Suman",
+    "affliation": "Professor, Senior Principal Scientist & Professor(AcSIR) at CSIR- NISTADS, New Delhi",
+    "image": "img/speakers/YogeshSuman.jpeg"
+  }
 ]
