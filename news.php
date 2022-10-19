@@ -19,12 +19,8 @@
             <hr>
             <table class="dates table table-hover table-striped">
                 <tr>
-                    <td>Submission of Abstract</td>
-                    <td><strike>September 20, 2022</strike> September 30, 2022</td>
-                </tr>
-                <tr>
-                    <td>Acceptance of Abstract</td>
-                    <td><strike>September 24, 2022</strike> October 05, 2022</td>
+                    <td>Submission of Abstract <br> (Oral Presentation)</td>
+                    <td> November 10, 2022</td>
                 </tr>
                 <tr>
                     <td>Submission of Full Length Paper</td>
