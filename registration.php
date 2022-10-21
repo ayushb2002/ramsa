@@ -92,7 +92,7 @@
                     </p>
                 </div>
                 <div class="w-100 d-flex justify-content-center">
-                <a href="https://forms.gle/BXWC29y5oXSJLW1v7" target="_blank"><button class="btn btn-success">Click here for accessing registration link</button></a>
+                <a href="https://forms.gle/95zuXjs5vs2A5eFj9" target="_blank"><button class="btn btn-success">Click here for accessing registration link</button></a>
                 </div>
             </div>
         </div>
