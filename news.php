@@ -20,17 +20,13 @@
             <table class="dates table table-hover table-striped">
                 <tr>
                     <td>Submission of Abstract <br> (Oral Presentation)</td>
-                    <td> November 10, 2022</td>
+                    <td> <strike>November 10, 2022 </strike> <br>November 20, 2022 </td>
                 </tr>
                 <tr>
                     <td>Submission of Full Length Paper</td>
-                    <td><strike>October 15, 2022</strike> <br>October 30, 2022</td>
+                    <td><strike>October 30, 2022 </strike> <br>November 20, 2022</td>
                 </tr>
-                <tr>
-                    <td>Notification of Acceptance of Paper</td>
-                    <td>November 15, 2022</td>
-                </tr>
-            </table>
+             </table>
         </div>
         </div>
     </div>
