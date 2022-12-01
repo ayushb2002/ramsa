@@ -9,7 +9,8 @@
                 <li><span>Form for abstract submission is out now. Head to <a href="#abstract">Author Guidelines</a> section to download the template for submission.</span></li>
                 <li><span>The registration link is out now! Apply </span><a href="https://forms.gle/95zuXjs5vs2A5eFj9" target="_blank">here</a></li>
                 <li><a href="resources/RAMSA-2022.pdf" target="_blank">RAMSA-2022 Brochure.</a></li>
-                <li><span class="multi-color">Full paper submission link is out now! Submit </span><a href="https://easychair.org/my/conference?conf=ramsa2022" target="_blank">here</a></li>               
+                <li><span >Full paper submission link is out now! Submit </span><a href="https://easychair.org/my/conference?conf=ramsa2022" target="_blank">here</a></li>  
+                <li><span class="multi-color">RAMSA 2022 is partially funded by SERB-DST.</span></li>    
             </ul>
         </div>
         </div>

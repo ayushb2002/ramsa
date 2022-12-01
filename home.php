@@ -10,14 +10,17 @@
                             <br>
                             <span class="redHead fw-bold"> Recent Advances in Mathematical Sciences and its Applications</span><br/>
                             <span class="readHeadVb fw-bold">(RAMSA - 2022)</span>
-                            <br><br>
+                            <br>
+                            <span class="hero-subhead-2 fw-bold"style="color: #21618C;">Partially funded by SERB-DST, Government of India</span><br/>
+                            <div class="col-4 d-flex justify-content-center hero-img-container">
+                                <img src="img/serb_logo.gif"  class="shrink " alt="logo" id="logo">
+                            </div>
                             <span class="hero-subhead-1 fw-bold">Department of Mathematics,</span><br/>
                             <span class="hero-subhead-1 fw-bold">Jaypee Institute of Information Technology</span><br>
                             <span class="hero-subhead-1 fw-bold">(JIIT Noida, U.P.)</span>
                             <br><br>
                             <span class="hero-subhead-2 fw-bold">December 08 - 10, 2022</span>
-                            <br><br>
-                            <span class="hero-subhead-3 fw-bold" style="color: #21618C;">Online and Offline (Hybrid) mode</span>
+                            <span class="hero-subhead-2 fw-bold">(Hybrid Mode)</span>
                         </div>
                     </div>
 
